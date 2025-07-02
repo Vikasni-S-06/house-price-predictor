@@ -77,8 +77,9 @@ Input:
 Output:
 💰 Predicted Price: ₹ 89.73 Lakhs
 
-![App Screenshot](https://https://github.com/Vikasni-S-06/house-price-predictor/blob/main/images/house%20predictor%20page.png)
 
+
+![App Screenshot](https://github.com/vikasni-06/house-price-predictor/blob/main/images/house_predictor_page.png?raw=true)
 
 
 
