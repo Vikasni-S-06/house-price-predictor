@@ -41,6 +41,8 @@ house-price-predictor/
 - Python 3.7+
 - pip
 
+
+
 🔧 Setup Instructions:
 
 # Clone the repository
@@ -53,6 +55,8 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run app.py
 
+
+
 📈 Dataset
 
 Source: Kaggle - Bengaluru House Price Data  
@@ -60,6 +64,8 @@ URL: https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 
 Features Used: total_sqft, bhk, location  
 Target Predicted: price (in Lakhs)
+
+
 
 📊 Sample Output
 
@@ -71,11 +77,15 @@ Input:
 Output:
 💰 Predicted Price: ₹ 89.73 Lakhs
 
-![App Screenshot](images/app_screenshot.png)
+![App Screenshot](images/house predictor page.png)
+
+
 
 🌐 Live Demo
 
-🔗 [Click here to try the live app](https://vikasni-06-house-price-predictor.streamlit.app)
+🔗 [Click here to try the live app](https://vikasni-06-house-price-predictor-push.streamlit.app/)
+
+
 
 🧠 Technologies Used
 
@@ -84,6 +94,8 @@ Output:
 - Scikit-learn  
 - Joblib  
 - Streamlit  
+
+
 
 🙌 Acknowledgements
 
