@@ -79,8 +79,7 @@ Output:
 
 
 
-![App Screenshot](https://github.com/vikasni-06/house-price-predictor/blob/main/images/house_predictor_page.png?raw=true)
-
+![App Screenshot](images/house_price_ui.png)
 
 
 
